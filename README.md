@@ -49,6 +49,8 @@ flowchart LR
 
 ## Schematics and PCB (Proteus)
 
+| | |
+|---|---|
 | Power supply | `images/schematics/01-power-supply.png` |
 | Solar charging circuit | `images/schematics/02-solar-charging-circuit.png` |
 | Inverter and control | `images/schematics/03-inverter-and-control.png` |
